@@ -1,5 +1,7 @@
 # tool-update-49 项目规则
 
+Agent / LLM 文档见 `AGENTS.md`，改代码前先读。
+
 ## 版本号
 
 - 所有版本号必须用 `time-version-49` skill 生成，格式 `YYYYMMDD.HHMM.SSMS`。
